@@ -1,11 +1,11 @@
 ## Laravel docker boiler plate
 
 ## Requirements:
-###### PHP|8.1
-###### Composer|2.0.12
-###### Node|16.*
+###### PHP | 8.1
+###### Composer | 2.0.12
+###### Node | 16.*
 
-### Laravel|9.3 
+### Laravel | 9.3 
 
 ### Follow the instructions to build up docker container for the boiler plate:
 
