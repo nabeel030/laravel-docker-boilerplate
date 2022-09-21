@@ -15,7 +15,8 @@
 4. `php artisan key:generate`
 5. `npm install`
 6. `npm run build`
-7. `docker compose up --build`
+7. `cd docker`
+8. `docker compose up --build`
 
 
 Note: Run `docker compose down` to remove containers.
