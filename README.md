@@ -16,7 +16,7 @@
 5. `npm install`
 6. `npm run build`
 7. `cd docker`
-8. `docker compose up --build` ###### Make sure Docker desktop is running
+8. `docker compose up --build` // Make sure Docker desktop is running
 
 
 Note: Run `docker compose down` to remove containers.
